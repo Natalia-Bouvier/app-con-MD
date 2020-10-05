@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application con MD</string>
+    <string name="texto_boton_registrese">Siguiente</string>
+    <string name="texto_titulo">Bienvenido!</string>
+    <string name="texto_boton_editar">Editar</string>
+    <string name="texto_boton_confirmar">Confirmar</string>
+    <string name="texto_boton_finalizar">Salir</string>
+    <string name="texto_boton_ingresar">Ingresar nuevo uruario</string>
+
+</resources>
